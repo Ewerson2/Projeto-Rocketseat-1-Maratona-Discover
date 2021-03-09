@@ -1,3 +1,3 @@
-# C-digo-Maratona-Discover
+# Codigo-Maratona-Discover
 App dev.finace$ da maratona discover Rocketseat.
 https://maratonadiscover.rocketseat.com.br/maratona/aula-01
